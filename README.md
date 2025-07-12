@@ -2,6 +2,7 @@
 - 경희대학교 컴퓨터공학과 <sub>2022. 3. - present</sub>
 
 ### 🎲 Experiences
+- UCPC 2025 예선 78등 <sub>2025. 7.</sub>
 - LG Aimers 7기 <sub>2025. 7. - present</sub>
 - 2023 경인지역 대학 연합 프로그래밍 경시대회 shake! 경희대학교 예선 7등 <sub>2023. 9.</sub>
 - UCPC 2023 예선 165등 <sub>2023. 7.</sub>
