@@ -5,7 +5,7 @@
 > <sub>LG Aimers 7기 <sub>2025. 7. - present</sub></sub>  
 > <sub>경희대학교 컴퓨터공학부 학술동아리 Hacker <sub>2022. 3. - present</sub></sub>
 >
-> **Contests**
+> **Contests**  
 > <sub>UCPC : 전국 대학생 프로그래밍 대회 동아리 연합</sub>  
 > <sub>ㅤ2025 예선 78등 <sub>2025. 7.</sub></sub>  
 > <sub>ㅤ2023 예선 165등 <sub>2023. 7.</sub></sub>  
