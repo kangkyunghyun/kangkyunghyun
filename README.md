@@ -2,7 +2,6 @@
 > <sub>경희대학교 컴퓨터공학과 <sub>2022. 3. - present</sub></sub>  
 > 
 > **Experiences**  
-> <sub>LG Aimers 7기 <sub>2025. 7. - present</sub></sub>  
 > <sub>경희대학교 컴퓨터공학부 학술동아리 Hacker <sub>2022. 3. - present</sub></sub>
 >
 > **Contests**  
