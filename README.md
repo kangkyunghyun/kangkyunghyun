@@ -1,4 +1,5 @@
 > **Experiences**  
+> <sub>경희대학교 해킹/보안 동아리 HacKHU <sub>2025. 9. - present</sub></sub>  
 > <sub>Google Developer Groups on Campus : KHU <sub>2025. 9. - present</sub></sub>  
 > <sub>경희대학교 소프트웨어융합대학 알고리즘 동아리 KHUA <sub>2025. 9. - present</sub></sub>  
 > <sub>경희대학교 컴퓨터공학부 학술동아리 Hacker <sub>2022. 3. - present</sub></sub>  
