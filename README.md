@@ -1,6 +1,6 @@
 ### Experiences
 - AI·SW 마에스트로 17기 <sub>2026. 3. - present</sub>
-- 알고리즘 SW멘토 <sub>2026. 3. - present</sub>
+- 경희대학교 알고리즘 SW멘토 <sub>2026. 3. - present</sub>
 - 경희대학교 해킹/보안 동아리 HacKHU <sub>2025. 9. - present</sub>
 - 경희대학교 알고리즘 동아리 KHUA <sub>2025. 9. - present</sub>
 - [GDG on Campus : KHU](https://github.com/GDG-on-Campus-KHU) <sub>2025. 9. - 2026. 2.</sub>
