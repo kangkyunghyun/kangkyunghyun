@@ -27,5 +27,6 @@
 
 ## Awards
 
+* 2026 SCSC computer programming contest Div.3 | Furiosa Prize(4등) | 2026. 5.
 * 2025 경희대학교 가을 프로그래밍 경시대회 | 장려상(4등) | 2025. 10.
 * 2022 경희대학교 동아리 단합 공모전 | 장려상(3등) | 2022. 9.
