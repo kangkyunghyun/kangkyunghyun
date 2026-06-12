@@ -5,7 +5,7 @@
 ## Experiences
 
 * [AI·SW 마에스트로](https://github.com/AI-SW-Maestro-OSS) | 2026. 3. - present
-* 경희대학교 알고리즘 멘토 | 2026. 3. - present
+* 경희대학교 알고리즘 멘토 | 2026. 3. - 2026. 6.
 * 경희대학교 해킹 동아리 HacKHU | 2025. 9. - present
 * 경희대학교 알고리즘 동아리 KHUA | 2025. 9. - present
 * [GDG on Campus 경희대학교](https://github.com/GDG-on-Campus-KHU) | 2025. 9. - 2026. 2.
