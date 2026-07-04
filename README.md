@@ -1,6 +1,6 @@
 ## Education
 
-* 경희대학교 컴퓨터공학과 | 2022. 3. - present | GPA 4.03/4.5
+* 경희대학교 컴퓨터공학과 | 2022. 3. - present | GPA 4.09/4.5
 
 ## Experiences
 
