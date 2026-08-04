@@ -1,4 +1,4 @@
-# 강경현
+# Kyunghyun Kang
 
 Backend Developer building and operating products.
 
